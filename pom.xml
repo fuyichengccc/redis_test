@@ -22,7 +22,7 @@
         <servlet-api.version>2.5</servlet-api.version>
         <tomcat.version>2.2</tomcat.version>
         <jsp-api.version>2.0</jsp-api.version>
-        <jackson.version>2.4.2</jackson.version>
+        <jackson.version>2.9.10.8</jackson.version>
 
     </properties>
 
